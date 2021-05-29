@@ -12,7 +12,7 @@ criar uma API que rode na porta 3333, que tenha a rota GET /welcome e retorne um
 ```
 ### **Screenshot**
 
-![screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd890d65-032e-4e7b-8940-5599fd14d606/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210529%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210529T052606Z&X-Amz-Expires=86400&X-Amz-Signature=131079ab7de07a5fe96af201f13303d7cec5475eb8adf1a57906f4c1995b315e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![screenshot](./screenshots/screen1.png)
 
 ### Starting
 - instalando dependencias
